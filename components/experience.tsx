@@ -17,7 +17,7 @@ export default function Experience() {
         "Debugging and validation: Bug identification using GDB with implementation of test procedures",
         "Simulation and optimization: Use of SKE to simulate satellite constellations and optimize node interactions",
       ],
-      technologies: ["Linux", "C", "GDB", "CMake", "SKE", "LithOS", "XNG", "Git", "ARINC653"],
+      technologies: ["Linux", "C++", "GDB", "CMake", "SKE", "LithOS", "XNG", "Git", "ARINC653"],
     },
     {
       title: "Spatial Remote Sensing Research Engineer",
